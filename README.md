@@ -1,7 +1,7 @@
 # LensStudio-LightBoost
 A subgraph for Lens Studio's Material Editor.   
-Makes lights look more vibrant by increasing the shadow/light contrast on the mesh.  
-Shadow Receiving needs to be enabled the mesh.
+Makes vegetation look more realistic, as the directional lights in the scene are now used to drive a Sub-Surface Scattering effect inside the mesh.
+Also supports Shadow Receiving, when enabled on the mesh.
 
 As seen in [this tweet](https://twitter.com/gospookyhq/status/1511813331920859142?s=20&t=fXJ_9HSC6Q1gZGa7gCyL7g)!
 
